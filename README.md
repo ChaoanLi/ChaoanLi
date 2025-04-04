@@ -56,7 +56,7 @@
 ## 📫 How to reach me
 
 - Email: `chaoan@tamu.com`  
-- LinkedIn: [linkedin.com/in/chaoan-li-4036a6323](linkedin.com/in/chaoan-li-4036a6323)  
+- LinkedIn: [@chaoanli](linkedin.com/in/chaoan-li-4036a6323)  
 - GitHub: [@chaoanli](https://github.com/ChaoanLi)
 - Homepage:[@chaoan](https://chaoanli.github.io/)
 
