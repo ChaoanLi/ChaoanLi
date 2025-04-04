@@ -42,40 +42,43 @@
 
 ## 🎓 My Academic Path
 
-<div align="center">
-  <div>
-    <a href="https://www.hzsdyfz.com.cn/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70" alt="HSY"/>
-    </a>
-    &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Arrow_right_font_awesome.svg" width="30" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
-    <a href="https://en.ustb.edu.cn/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="70" alt="USTB"/>
-    </a>
-    &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Arrow_right_font_awesome.svg" width="30" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
-    <a href="https://math.bnu.edu.cn/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="70" alt="BNU"/>
-    </a>
-    &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Arrow_right_font_awesome.svg" width="30" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
-    <a href="https://engineering.tamu.edu/industrial/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="85" alt="TAMU"/>
-    </a>
-  </div>
-  <div style="margin-top: 8px;">
-    <sub>HS</sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub>BSc</sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub>MSc</sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub>PhD</sub>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.hzsdyfz.com.cn/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70" alt="HSY"/>
+      </a>
+    </td>
+    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center">
+      <a href="https://en.ustb.edu.cn/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="70" alt="USTB"/>
+      </a>
+    </td>
+    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center">
+      <a href="https://math.bnu.edu.cn/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="70" alt="BNU"/>
+      </a>
+    </td>
+    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center">
+      <a href="https://engineering.tamu.edu/industrial/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="85" alt="TAMU"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>HS</sub></td>
+    <td></td>
+    <td align="center"><sub>BSc</sub></td>
+    <td></td>
+    <td align="center"><sub>MSc</sub></td>
+    <td></td>
+    <td align="center"><sub>PhD Student</sub></td>
+  </tr>
+</table>
+
 
 
 
