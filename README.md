@@ -41,14 +41,23 @@
 ## 🎓 My Academic Path
 
 <div align="center">
-  <a href="https://www.hyfz.net/"><img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="50" alt="HSY"/></a>
-  &nbsp;➡️&nbsp;
-  <a href="https://en.ustb.edu.cn/"><img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="50" alt="USTB"/></a>
-  &nbsp;➡️&nbsp;
-  <a href="https://math.bnu.edu.cn/"><img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="50" alt="BNU"/></a>
-  &nbsp;➡️&nbsp;
-  <a href="https://engineering.tamu.edu/industrial/"><img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="70" alt="TAMU"/></a>
+  <a href="https://www.hyfz.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70" alt="HSY" style="vertical-align: middle;"/>
+  </a>
+  <span style="font-size: 30px; vertical-align: middle;"> ➡️ </span>
+  <a href="https://en.ustb.edu.cn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="70" alt="USTB" style="vertical-align: middle;"/>
+  </a>
+  <span style="font-size: 30px; vertical-align: middle;"> ➡️ </span>
+  <a href="https://math.bnu.edu.cn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="70" alt="BNU" style="vertical-align: middle;"/>
+  </a>
+  <span style="font-size: 30px; vertical-align: middle;"> ➡️ </span>
+  <a href="https://engineering.tamu.edu/industrial/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="85" alt="TAMU" style="vertical-align: middle;"/>
+  </a>
 </div>
+
 
 ## 📚 Latest Projects
 
