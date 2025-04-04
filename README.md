@@ -53,7 +53,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://engineering.tamu.edu/industrial/" target="_blank">
-    <img src="hhttps://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" alt="TAMU" width="90"/>
+    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" alt="TAMU" width="90"/>
   </a>
 </div>
 
