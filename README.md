@@ -39,12 +39,7 @@
 
 ## 🎓 Education
 
-| School | Degree | Logo |
-|--------|--------|------|
-| Huazhong University of Science and Technology First Affiliated High School  | High School | ![华师一 logo](https://www.hyfz.net/uploads/allimg/191015/1-1910151532104F.png) |
-| University of Science and Technology Beijing  | BSc in Mathematics | ![USTB logo](https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/University_of_Science_and_Technology_Beijing_Logo.svg/200px-University_of_Science_and_Technology_Beijing_Logo.svg.png) |
-| Beijing Normal University, School of Mathematical Sciences | MSc in Mathematics | ![BNU logo](https://upload.wikimedia.org/wikipedia/zh/thumb/0/0f/BNU_logo.svg/200px-BNU_logo.svg.png) |
-| Texas A&M University, Department of Industrial & Systems Engineering | PhD in Industrial Engineering | ![TAMU logo](https://brandguide.tamu.edu/assets/img/logos/tam-primary-mark.png) |
+<div align="center"> <a href="https://www.hyfz.net/" target="_blank"> <img src="https://www.hyfz.net/uploads/allimg/191015/1-1910151532104F.png" alt="华师一附中" width="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://en.ustb.edu.cn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/zh/f/fb/University_of_Science_and_Technology_Beijing_Logo.svg" alt="USTB" width="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://math.bnu.edu.cn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/zh/0/0f/BNU_logo.svg" alt="BNU Math" width="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://engineering.tamu.edu/industrial/" target="_blank"> <img src="https://brandguide.tamu.edu/assets/img/logos/tam-primary-mark.png" alt="Texas A&M ISEN" width="100"/> </a> </div> <p align="center"> <b>华中师范大学第一附属中学 → 北京科技大学 → 北京师范大学数学科学学院 → Texas A&M University (ISEN)</b> </p>
 
 
 ## 📚 Latest Projects
