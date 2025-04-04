@@ -45,7 +45,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.hyfz.net/" target="_blank">
+      <a href="https://www.hzsdyfz.com.cn/" target="_blank">
         <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70" alt="HSY"/>
       </a>
     </td>
