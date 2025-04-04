@@ -39,45 +39,39 @@
 
 
 
-
 ## 🎓 My Academic Path
-
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://www.hzsdyfz.com.cn/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70" alt="HSY"/>
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70"/><br/>
+        <sub>HS</sub>
       </a>
     </td>
-    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center" style="font-size: 30px;">➡️</td>
     <td align="center">
       <a href="https://en.ustb.edu.cn/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="70" alt="USTB"/>
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="70"/><br/>
+        <sub>BSc</sub>
       </a>
     </td>
-    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center" style="font-size: 30px;">➡️</td>
     <td align="center">
       <a href="https://math.bnu.edu.cn/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="70" alt="BNU"/>
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="70"/><br/>
+        <sub>MSc</sub>
       </a>
     </td>
-    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center" style="font-size: 30px;">➡️</td>
     <td align="center">
       <a href="https://engineering.tamu.edu/industrial/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="85" alt="TAMU"/>
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="85"/><br/>
+        <sub>PhD</sub>
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center"><sub>HS</sub></td>
-    <td></td>
-    <td align="center"><sub>BSc</sub></td>
-    <td></td>
-    <td align="center"><sub>MSc</sub></td>
-    <td></td>
-    <td align="center"><sub>PhD Student</sub></td>
-  </tr>
 </table>
+
 
 
 
