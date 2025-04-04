@@ -38,7 +38,7 @@
 ---
 
 
-## 🎓 My Academic Path
+
 
 ## 🎓 My Academic Path
 
@@ -68,9 +68,16 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><sub>High School</sub></td>
+    <td></td>
+    <td align="center"><sub>Bachelor</sub></td>
+    <td></td>
+    <td align="center"><sub>Master</sub></td>
+    <td></td>
+    <td align="center"><sub>Ph.D.</sub></td>
+  </tr>
 </table>
-
-
 
 
 ## 📚 Latest Projects
