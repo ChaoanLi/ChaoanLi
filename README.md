@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Chaoan Li
 
-🎓 Ph.D. in Industrial Engineering | Data Science & Statistics Enthusiast  
+🎓 Ph.D. in Industrial Engineering | Data Science & Statistics  
 📍 Currently based in the U.S. | Looking for internship opportunities  
 🧠 Passionate about statistical modeling, research, and open-source code  
 
@@ -17,6 +17,20 @@
 
 ---
 
+## 📝 Peer-reviewed Articles
+
+- **C. Li**, X. Yan, D. Yang (2024).  
+  *Fourier Transform of Anisotropic Hardy Spaces Associated with Ball Quasi-Banach Function Spaces and Its Applications to Hardy–Littlewood Inequalities*.  
+  *Acta Mathematicae Applicatae Sinica, English Series*, 1–36.  
+  [Springer Link](https://link.springer.com/article/10.1007/s10255-024-1124-5)
+
+- **C. Li**, X. Yan, D. Yang (2023).  
+  *Anisotropic Ball Campanato-type Function Spaces and Their Applications*.  
+  *Analysis and Mathematical Physics, 13(3): 50*.  
+  [Springer Link](https://link.springer.com/article/10.1007/s13324-023-00814-w)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Chaoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaoanli&show_icons=true&theme=tokyonight)
@@ -25,9 +39,9 @@
 
 ## 📚 Latest Projects
 
-- 🔬 [A Note on E-values and Multiple Testing (2024)](https://arxiv.org/abs/...) – statistical theory and multiple hypothesis testing  
-- 🧮 [Kernel Ridge Regression with Matérn Kernel (Python)](https://github.com/chaoanli/krr-matern) – translating statistical models from R to Python  
-- 🎙️ [Relax & Chat – Chinese Podcast](https://...) – a chill Mandarin podcast I'm developing
+- 🔬 [Visualizing Multiple Testing Method of E-values and Multiple Testing](https://github.com/ChaoanLi/E-value) – statistical theory and multiple hypothesis testing  
+- 🧮 [Kernel Ridge Regression with Local Validation](https://github.com/ChaoanLi/local-validation) – a validation model of KRR  
+- 🎙️ [Relax & Chat – Chinese Podcast](https://podcasts.apple.com/cn/podcast/%E8%BD%BB%E6%9D%BE%E6%84%89%E5%BF%AB/id1802566456) – a chill Mandarin podcast I'm developing
 
 ---
 
@@ -35,15 +49,16 @@
 
 - 🧩 I enjoy solving mathematical puzzles & implementing algorithms in my free time
 - 🎧 I'm currently exploring podcasting and thoughtful storytelling in Chinese
-- 📖 Favorite books lately: *How to Read a Book*, *The Little Prince*
+- 📖 Favorite books lately: *The Long Goodbye*
 
 ---
 
 ## 📫 How to reach me
 
-- Email: `chaoanli@example.com`  
-- LinkedIn: [linkedin.com/in/chaoanli](https://linkedin.com/in/chaoanli)  
-- GitHub: [@chaoanli](https://github.com/chaoanli)
+- Email: `chaoan@tamu.com`  
+- LinkedIn: [linkedin.com/in/chaoan-li-4036a6323](linkedin.com/in/chaoan-li-4036a6323)  
+- GitHub: [@chaoanli](https://github.com/ChaoanLi)
+- Homepage:[@chaoan](https://chaoanli.github.io/)
 
 ---
 
