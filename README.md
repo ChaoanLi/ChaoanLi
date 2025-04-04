@@ -37,6 +37,16 @@
 
 ---
 
+## 🎓 Education
+
+| School | Degree | Logo |
+|--------|--------|------|
+| Huazhong University of Science and Technology First Affiliated High School  | High School | ![华师一 logo](https://www.hyfz.net/uploads/allimg/191015/1-1910151532104F.png) |
+| University of Science and Technology Beijing  | BSc in Mathematics | ![USTB logo](https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/University_of_Science_and_Technology_Beijing_Logo.svg/200px-University_of_Science_and_Technology_Beijing_Logo.svg.png) |
+| Beijing Normal University, School of Mathematical Sciences | MSc in Mathematics | ![BNU logo](https://upload.wikimedia.org/wikipedia/zh/thumb/0/0f/BNU_logo.svg/200px-BNU_logo.svg.png) |
+| Texas A&M University, Department of Industrial & Systems Engineering | PhD in Industrial Engineering | ![TAMU logo](https://brandguide.tamu.edu/assets/img/logos/tam-primary-mark.png) |
+
+
 ## 📚 Latest Projects
 
 - 🔬 [Visualizing Multiple Testing Method of E-values and Multiple Testing](https://github.com/ChaoanLi/E-value) – statistical theory and multiple hypothesis testing  
