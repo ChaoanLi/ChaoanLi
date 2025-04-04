@@ -40,23 +40,36 @@
 
 ## 🎓 My Academic Path
 
-<div align="center">
-  <a href="https://www.hyfz.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70" alt="HSY" style="vertical-align: middle;"/>
-  </a>
-  <span style="font-size: 30px; vertical-align: middle;"> ➡️ </span>
-  <a href="https://en.ustb.edu.cn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="70" alt="USTB" style="vertical-align: middle;"/>
-  </a>
-  <span style="font-size: 30px; vertical-align: middle;"> ➡️ </span>
-  <a href="https://math.bnu.edu.cn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="70" alt="BNU" style="vertical-align: middle;"/>
-  </a>
-  <span style="font-size: 30px; vertical-align: middle;"> ➡️ </span>
-  <a href="https://engineering.tamu.edu/industrial/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="85" alt="TAMU" style="vertical-align: middle;"/>
-  </a>
-</div>
+## 🎓 My Academic Path
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.hyfz.net/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70" alt="HSY"/>
+      </a>
+    </td>
+    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center">
+      <a href="https://en.ustb.edu.cn/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="70" alt="USTB"/>
+      </a>
+    </td>
+    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center">
+      <a href="https://math.bnu.edu.cn/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="70" alt="BNU"/>
+      </a>
+    </td>
+    <td align="center" style="font-size: 32px;">➡️</td>
+    <td align="center">
+      <a href="https://engineering.tamu.edu/industrial/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="85" alt="TAMU"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
