@@ -38,9 +38,7 @@
 ---
 
 ## 🎓 Education
-
-<div align="center"> <a href="https://www.hyfz.net/" target="_blank"> <img src="https://www.hyfz.net/uploads/allimg/191015/1-1910151532104F.png" alt="华师一附中" width="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://en.ustb.edu.cn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/zh/f/fb/University_of_Science_and_Technology_Beijing_Logo.svg" alt="USTB" width="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://math.bnu.edu.cn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/zh/0/0f/BNU_logo.svg" alt="BNU Math" width="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://engineering.tamu.edu/industrial/" target="_blank"> <img src="https://brandguide.tamu.edu/assets/img/logos/tam-primary-mark.png" alt="Texas A&M ISEN" width="100"/> </a> </div> <p align="center"> <b>华中师范大学第一附属中学 → 北京科技大学 → 北京师范大学数学科学学院 → Texas A&M University (ISEN)</b> </p>
-
+<div align="center"> <a href="https://www.hyfz.net/" target="_blank"> <img src="https://www.hyfz.net/uploads/allimg/191015/1-1910151532104F.png" alt="华师一附中" width="60"/> </a> &nbsp;&nbsp; <a href="https://en.ustb.edu.cn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/zh/f/fb/University_of_Science_and_Technology_Beijing_Logo.svg" alt="USTB" width="60"/> </a> &nbsp;&nbsp; <a href="https://math.bnu.edu.cn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/zh/0/0f/BNU_logo.svg" alt="BNU Math" width="60"/> </a> &nbsp;&nbsp; <a href="https://engineering.tamu.edu/industrial/" target="_blank"> <img src="https://brandguide.tamu.edu/assets/img/logos/tam-primary-mark.png" alt="Texas A&M ISEN" width="90"/> </a> </div>
 
 ## 📚 Latest Projects
 
