@@ -38,7 +38,25 @@
 ---
 
 ## 🎓 Education
-<div align="center"> <a href="https://www.hyfz.net/" target="_blank"> <img src="https://www.hyfz.net/uploads/allimg/191015/1-1910151532104F.png" alt="华师一附中" width="60"/> </a> &nbsp;&nbsp; <a href="https://en.ustb.edu.cn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/zh/f/fb/University_of_Science_and_Technology_Beijing_Logo.svg" alt="USTB" width="60"/> </a> &nbsp;&nbsp; <a href="https://math.bnu.edu.cn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/zh/0/0f/BNU_logo.svg" alt="BNU Math" width="60"/> </a> &nbsp;&nbsp; <a href="https://engineering.tamu.edu/industrial/" target="_blank"> <img src="https://brandguide.tamu.edu/assets/img/logos/tam-primary-mark.png" alt="Texas A&M ISEN" width="90"/> </a> </div>
+
+<div align="center">
+  <a href="https://www.hyfz.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" alt="华师一附中" width="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://en.ustb.edu.cn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" alt="USTB" width="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://math.bnu.edu.cn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" alt="BNU" width="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://engineering.tamu.edu/industrial/" target="_blank">
+    <img src="hhttps://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" alt="TAMU" width="90"/>
+  </a>
+</div>
+
 
 ## 📚 Latest Projects
 
