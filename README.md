@@ -2,7 +2,7 @@
 
 🎓 Ph.D. in Industrial Engineering | Data Science & Statistics  
 📍 Currently based in the U.S. | Looking for internship opportunities  
-🧠 Passionate about statistical modeling, research, and open-source code  
+🧠 Passionate about LLM, Web-3, and Quantitative Finance
 
 ---
 
@@ -14,6 +14,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=MathWorks&logoColor=white)
 
 ---
 
