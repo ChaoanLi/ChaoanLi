@@ -1,12 +1,10 @@
-# 👋 Hi there, I'm Chaoan Li
+# Chaoan Li
 
-🎓 Ph.D. in Industrial Engineering | Data Science & Statistics  
-📍 Currently based in the U.S. | Looking for internship opportunities  
-🧠 Passionate about LLM, Web-3, and Quantitative Finance
+Ph.D. student in Industrial Engineering at Texas A&M. My research sits at the intersection of **nonparametric statistics**, **machine learning**, and their applications to engineering and simulation problems.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -23,29 +21,14 @@
 
 ---
 
-## 📝 Peer-reviewed Articles
-
-- **C. Li**, X. Yan, D. Yang (2024).  
-  *Fourier Transform of Anisotropic Hardy Spaces Associated with Ball Quasi-Banach Function Spaces and Its Applications to Hardy–Littlewood Inequalities*.  
-  *Acta Mathematicae Applicatae Sinica, English Series*, 1–36.  
-  [Springer Link](https://link.springer.com/article/10.1007/s10255-024-1124-5)
-
-- **C. Li**, X. Yan, D. Yang (2023).  
-  *Anisotropic Ball Campanato-type Function Spaces and Their Applications*.  
-  *Analysis and Mathematical Physics, 13(3): 50*.  
-  [Springer Link](https://link.springer.com/article/10.1007/s13324-023-00814-w)
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Chaoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaoanli&show_icons=true&theme=tokyonight)
 
 ---
 
+## Academic Path
 
-
-## 🎓 My Academic Path
 <table align="center">
   <tr>
     <td align="center">
@@ -78,33 +61,20 @@
   </tr>
 </table>
 
+---
 
+## Projects
 
+- [**FMMT**](https://github.com/ChaoanLi/FMMT) – Fourier Maximum Modulus Test for validating computer simulation models against physical data, using kernel ridge regression and generalized Fourier coefficients to detect functional discrepancies globally or over user-specified subdomains.
 
+- [**conversational-language-coaching**](https://github.com/ChaoanLi/conversational-language-coaching) – A Claude Code skill that teaches you a foreign language on the side, woven naturally into normal conversations without interrupting your actual work.
 
-## 📚 Latest Projects
-
-- 🔬 [Visualizing Multiple Testing Method of E-values and Multiple Testing](https://github.com/ChaoanLi/E-value) – statistical theory and multiple hypothesis testing  
-- 🧮 [Kernel Ridge Regression with Local Validation](https://github.com/ChaoanLi/local-validation) – a validation model of KRR  
-- 🎙️ [Relax & Chat – Chinese Podcast](https://podcasts.apple.com/cn/podcast/%E8%BD%BB%E6%9D%BE%E6%84%89%E5%BF%AB/id1802566456) – a chill Mandarin podcast I'm developing
+- [**Relax & Chat – Chinese Podcast**](https://podcasts.apple.com/cn/podcast/%E8%BD%BB%E6%9D%BE%E6%84%89%E5%BF%AB/id1802566456) – A chill Mandarin podcast I'm developing.
 
 ---
 
-## 💡 Fun Facts
+## Contact
 
-- 🧩 I enjoy solving mathematical puzzles & implementing algorithms in my free time
-- 🎧 I'm currently exploring podcasting and thoughtful storytelling in Chinese
-- 📖 Favorite books lately: *The Long Goodbye*
-
----
-
-## 📫 How to reach me
-
-- Email: `chaoan@tamu.com`  
-- LinkedIn: [@chaoanli](https://linkedin.com/in/chaoan-li-4036a6323)  
-- GitHub: [@chaoanli](https://github.com/ChaoanLi)
-- Homepage:[@chaoan](https://chaoanli.github.io/)
-
----
-
-Thanks for visiting! 😊
+- Email: `chaoan@tamu.edu`
+- LinkedIn: [@chaoanli](https://linkedin.com/in/chaoan-li-4036a6323)
+- Homepage: [chaoanli.github.io](https://chaoanli.github.io/)
