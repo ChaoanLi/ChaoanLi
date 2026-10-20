@@ -1,80 +1,45 @@
 # Chaoan Li
 
-Ph.D. student in Industrial Engineering at Texas A&M. My research sits at the intersection of **nonparametric statistics**, **machine learning**, and their applications to engineering and simulation problems.
+Ph.D. student in Industrial Engineering at Texas A&M University. My research interests include **nonparametric statistics**, **machine learning**, and applications to engineering and simulation problems.
 
----
+[Personal website](https://chaoanli.github.io/) · [LinkedIn](https://linkedin.com/in/chaoan-li-4036a6323) · [Email](mailto:chaoan@tamu.edu)
 
-## Tech Stack
+## Research and coursework
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=MathWorks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+Public repositories with code and project documentation:
 
----
+| Project | Focus |
+| --- | --- |
+| [LakeAEcurve-INLA](https://github.com/ChaoanLi/LakeAEcurve-INLA) | Bayesian reconstruction of lake bathymetry and area–elevation curves using INLA-SPDE. |
+| [BIBD4ML](https://github.com/ChaoanLi/BIBD4ML) | Comparing machine learning models using balanced incomplete block designs. |
+| [E-value](https://github.com/ChaoanLi/E-value) | A course project comparing multiple-testing procedures through simulation. |
 
-## GitHub Stats
+See my [website](https://chaoanli.github.io/) for more about my research.
 
-![Chaoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaoanli&show_icons=true&theme=tokyonight)
+## Applications and tools
 
----
+| Project | What it does |
+| --- | --- |
+| [EasyGrader](https://github.com/ChaoanLi/EasyGrader) | An AI-assisted grading application with configurable rubrics and CSV export. |
+| [AutoGradeCollector](https://github.com/ChaoanLi/AutoGradeCollector) | Aggregates course-platform grade exports into traceable spreadsheets. |
+| [BSMoption](https://github.com/ChaoanLi/BSMoption) | An option-pricing application with European and American pricing models. |
+| [EasyPod](https://github.com/ChaoanLi/EasyPod) | The website for our Mandarin podcast, 轻松愉快. |
 
-## Academic Path
+## Agent skills
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.hzsdyfz.com.cn/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/hsy.png" width="70"/><br/>
-        <sub>HS</sub>
-      </a>
-    </td>
-    <td align="center" style="font-size: 30px;">➡️</td>
-    <td align="center">
-      <a href="https://en.ustb.edu.cn/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/ustb.png" width="70"/><br/>
-        <sub>BSc</sub>
-      </a>
-    </td>
-    <td align="center" style="font-size: 30px;">➡️</td>
-    <td align="center">
-      <a href="https://math.bnu.edu.cn/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/bnu.png" width="70"/><br/>
-        <sub>MSc</sub>
-      </a>
-    </td>
-    <td align="center" style="font-size: 30px;">➡️</td>
-    <td align="center">
-      <a href="https://engineering.tamu.edu/industrial/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ChaoanLi/assets/main/tamu.png" width="85"/><br/>
-        <sub>PhD</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+- [conversational-language-coaching](https://github.com/ChaoanLi/conversational-language-coaching) — language practice woven into normal conversations.
+- [paper-audit](https://github.com/ChaoanLi/paper-audit) — see the repository for its paper-review workflow.
+- [academic-code-release](https://github.com/ChaoanLi/academic-code-release) — a workflow for preparing Python research code as a paper supplement.
 
----
+## Background
 
-## Projects
+B.Sc., University of Science and Technology Beijing → M.Sc., Beijing Normal University → Ph.D. studies, Texas A&M University.
 
-- [**FMMT**](https://github.com/ChaoanLi/FMMT) – Fourier Maximum Modulus Test for validating computer simulation models against physical data, using kernel ridge regression and generalized Fourier coefficients to detect functional discrepancies globally or over user-specified subdomains.
+I work with Python, R, MATLAB, and LaTeX, and build web projects with TypeScript, React, and Astro.
 
-- [**conversational-language-coaching**](https://github.com/ChaoanLi/conversational-language-coaching) – A Claude Code skill that teaches you a foreign language on the side, woven naturally into normal conversations without interrupting your actual work.
+## Elsewhere
 
-- [**Relax & Chat – Chinese Podcast**](https://podcasts.apple.com/cn/podcast/%E8%BD%BB%E6%9D%BE%E6%84%89%E5%BF%AB/id1802566456) – A chill Mandarin podcast I'm developing.
+- [轻松愉快 podcast](https://podcast.chaoanli.com/)
+- [Personal website source](https://github.com/ChaoanLi/chaoanli.github.io)
 
----
-
-## Contact
-
-- Email: `chaoan@tamu.edu`
-- LinkedIn: [@chaoanli](https://linkedin.com/in/chaoan-li-4036a6323)
-- Homepage: [chaoanli.github.io](https://chaoanli.github.io/)
+Looking for a project? Start with the categories above. Forked repositories are listed separately by GitHub and are not presented here as original work.
